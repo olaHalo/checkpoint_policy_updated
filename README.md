@@ -1,1 +1,1 @@
-# checkpoint_policy_updated
+Expect script for pushing Check Point policy
